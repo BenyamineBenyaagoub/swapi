@@ -1,0 +1,12 @@
+@import "./base.css";
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.btn-primary a{
+  color: white !important;
+  text-decoration: none;
+
+}
